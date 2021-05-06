@@ -1,0 +1,2 @@
+%error('HELLO');
+error(hello);
